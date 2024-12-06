@@ -1,0 +1,6 @@
+"./Src/005_3_maindriver_spi_rev_it.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f429zitx.o"
+"./drivers/Src/stm32f429xx_gpio_driver.o"
+"./drivers/Src/stm32f429xx_spi_driver.o"

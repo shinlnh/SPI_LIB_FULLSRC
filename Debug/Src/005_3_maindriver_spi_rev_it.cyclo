@@ -1,0 +1,10 @@
+../Src/005_3_maindriver_spi_rev_it.c:54:5:main	6
+../Src/005_3_maindriver_spi_rev_it.c:111:6:LNH_GPIOCLK	1
+../Src/005_3_maindriver_spi_rev_it.c:115:6:LNH_SPICLK	1
+../Src/005_3_maindriver_spi_rev_it.c:121:6:LNH_SPIGPIO_Init	1
+../Src/005_3_maindriver_spi_rev_it.c:215:6:LNH_SPI_Init	1
+../Src/005_3_maindriver_spi_rev_it.c:230:6:LNH_SPI_ENABLE	1
+../Src/005_3_maindriver_spi_rev_it.c:234:6:delay	2
+../Src/005_3_maindriver_spi_rev_it.c:241:6:SPI1_IRQHandler	1
+../Src/005_3_maindriver_spi_rev_it.c:246:6:__LNH_ApplicationEventCallback	4
+../Src/005_3_maindriver_spi_rev_it.c:264:6:EXTI9_5_IRQHandler	1
